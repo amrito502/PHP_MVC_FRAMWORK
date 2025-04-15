@@ -1,0 +1,20 @@
+{
+    "name": "amrit/php-mvc",
+    "autoload": {
+        "psr-4": {
+            "Amrit\\PhpMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amrito502",
+            "email": "amritobosu7@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
